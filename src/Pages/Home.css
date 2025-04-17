@@ -1,0 +1,65 @@
+header{
+    background: url(./../Assets/home\ image2.jpg) center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:auto;
+    text-align: left;
+    overflow: hidden;
+    margin-top: 110px;
+}
+header .row{
+    margin: 80px 0;
+}
+header h2{
+    font-size: 50px;
+    color: #531b28;
+    font-family: "Manrope", serif;
+    font-weight: 600;
+}
+header p{
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 30px;
+    margin: 20px 0;
+    color:rgb(72, 70, 70);
+    font-family: "Manrope", serif;
+}
+header button {
+    margin: 20px 10px;
+    width: 140px;
+    height: 40px;
+}
+.home-info{
+    margin-top: 80px;
+}
+ .btn-1{
+    background-color:#ab3550;
+    color:#fff;
+    border:2px solid #ab3550;
+ }
+ .btn-2{
+    background-color:#fff;
+    color:#ab3550;
+    border:2px solid #fff;
+    box-shadow: 10px 10px  10px 10px #EFF3EA;
+ }
+ .numbers{
+    background-color: #ab3550;
+    padding:25px 0;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+ }
+ .numbers  h2   {
+     font-weight: 700;
+     color: #fff;
+     font-family: "Manrope", serif;
+ }
+ .numbers .row .text  p{
+    font-size: 16px;
+    letter-spacing: 2px;
+    line-height: 30px;
+    color:#fff;
+    font-weight: 700;
+ }
+

@@ -1,0 +1,38 @@
+.blogs{
+    margin:80px 0;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+.blogs h2{
+    font-size: 50px;
+    color: #531b28;
+    font-family: "Manrope", serif;
+    font-weight: 600;
+    margin: 10px 0;
+}
+.blogs img{
+    max-width: 100%;
+}
+ .blogs .box{
+    margin-top: 50px;
+    border-bottom: 0.5px solid rgb(194, 189, 189);
+ }
+ .blogs .box h4{
+    color: #531b28;
+    font-family: "Manrope", serif;
+    font-weight: 400;
+    margin: 20px 0;
+ }
+ .blogs .box span{
+    font-size: 20px;
+    font-family: "Manrope", serif;
+    font-weight: 300;
+    margin-bottom: 15px;
+ }
+ .blogs .box h5{
+    font-size: 20px;
+    font-family: "Manrope", serif;
+    font-weight: 600;
+    margin-bottom: 15px;
+ }

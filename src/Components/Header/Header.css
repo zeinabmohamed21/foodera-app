@@ -1,0 +1,31 @@
+ nav{
+    width:100%;
+    height:auto;
+    background-color: #fff;
+ }
+ nav a   {
+    color:#ab3550;
+    font-size: 18px;
+    font-weight:500;
+    margin-left: 10px;
+
+ }
+ nav a:hover{
+   color:gray;
+ }
+  nav button{
+    color:#fff;
+    font-size: 18px;
+    font-weight:500;
+    margin-left: 10px;
+    width: 140px;
+    height: 50px;
+    border: 3px solid #ab3550 ;
+    background-color: #ab3550;
+     padding-top: 5px;
+     padding-left: 10px;
+  }
+  nav button:hover{
+   color:#ab3550;
+   background-color: #fff;
+  } 

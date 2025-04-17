@@ -1,0 +1,18 @@
+.para-part{
+    background: url(./../Assets/paraaaaaaaa.jpg) center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:auto;
+    text-align: left;
+    overflow: hidden;
+    margin: 50px 0;
+}
+    .para{
+    margin: auto;
+    padding: 50px 0;
+    text-align: center;
+   
+}
+.para button{
+    margin-bottom: 80px;
+}

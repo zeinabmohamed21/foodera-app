@@ -1,0 +1,15 @@
+.faq{
+    margin: 100px 0;
+}
+.faq h2{
+    font-size: 40px;
+     color: #531b28;
+    font-family: "Manrope", serif;
+    font-weight: 600;
+    margin-top: 50px ;
+    text-align: center;
+}
+ 
+.questions{
+    margin-top: 100px;
+}
